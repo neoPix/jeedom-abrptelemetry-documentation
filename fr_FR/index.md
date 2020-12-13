@@ -15,7 +15,7 @@ Vous aurez besoin d'une clé véhicule, pour cela :
 - Cliquez sur `Paramètres`,
 - Cliquez sur `Modèle de véhicule` puis sur `Selectionnez le modèle` et selectionnez le votre,
 - Cliquez ensuite sur `Ajouter ma voiture`,
-- Une liste d'intégration vous est proposée, cliquez sur `Homey` et copiez la clé qui vous est fournie.
+- Une liste d'intégration vous est proposée, cliquez sur `Jeedom` et copiez la clé qui vous est fournie.
 
 ## Installation
 
