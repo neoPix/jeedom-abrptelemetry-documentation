@@ -11,6 +11,8 @@ Ce plugin Jeedom `abrptelemetry` permet de transmettre les valeurs d'un (ou plus
 - Avoir les informations de son véhicule dans Jeedom (via un plugin tiers).
 
 Vous aurez besoin d'une clé véhicule, pour cela :
+- Suivez les étapes de cette vidéo [https://youtu.be/XMlHSU-6EPk](https://youtu.be/XMlHSU-6EPk)
+Ou
 - Connectez vous avec votre compte sur [abetterrouteplanner.com](https://abetterrouteplanner.com/),
 - Cliquez sur `Paramètres`,
 - Cliquez sur `Modèle de véhicule` puis sur `Selectionnez le modèle` et selectionnez le votre,
